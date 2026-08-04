@@ -28,3 +28,5 @@ Voy actualizando este repositorio a medida que aprendo cosas nuevas.
 
 Gracias por pasar por acá!
 
+Extras: La serie de Datos usados fueron extraídos directamente de un curso de Kaggle.com
+
